@@ -18,4 +18,4 @@ def ex2d():
 def ex3a():
     return render_template('ex3a.html')
 
-app.run()
+#app.run()
